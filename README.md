@@ -2,7 +2,7 @@
 ### Hi there, I am Pinwen Mu👋
 
 - 🔭 I’m currently focusing on ... JavaScript, TypeScript, Java, React, AWS, etc
-- 🌱 I’m currently learning ... C#, Azure, .Net in New Zealand Microsoft Student Accelerator (NZMSA) program
+- 🌱 I’m currently learning ... C#, Azure, .Net through New Zealand Microsoft Student Accelerator (NZMSA) program
 - 👯 I’m looking to collaborate on ... Projects and feedback, and improve technical skills together!
 - 🤔 I’m looking for help with ... Opportunities to grow and shine!
 - 💬 Ask me about ... I am open to anything, coding, hiking, tennis, gardening, piano, food, anything!
